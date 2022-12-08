@@ -1,0 +1,18 @@
+{
+  "name": "dogruluk-cesaretlik",
+  "version": "0.0.3-beta.1.2",
+  "description": "Doğruluk Cesaretlik Botu | Discord.JS V14 sürümü ile yapılmıştır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Executable-Studio"
+  ],
+  "author": "Zyrxus11",
+  "license": "MIT",
+  "dependencies": {
+    "discord-sync-commands": "^0.3.0",
+    "discord.js": "^14.7.1"
+  }
+}
